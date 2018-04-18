@@ -42,7 +42,13 @@ Attention Mechanisms
 Docker Image for tensorflow-1.0.0
 Compatible code for the Udemy Course
 
+Installing it for a 32-bit linux system
+
+BAZEL
+
 Sequence 2 Sequence models
+
+Installing Ubuntu in UEFI boot mode
 
 
 Downloading Data from facebook, linkedIN, whatsapp etc.
